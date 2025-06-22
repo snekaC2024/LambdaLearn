@@ -33,9 +33,11 @@ LambdaLearn is a real-time classroom quiz platform built entirely using AWS serv
 
 ## 🧪 Local Setup
 
-1. Clone the repository:  
-   ```bash
+1. Clone the repository:
+   
+```bash
    git clone https://github.com/your-username/lambdalearn.git
+```
 
 2. Navigate to the project directory:
 
