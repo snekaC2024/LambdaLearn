@@ -39,19 +39,13 @@ LambdaLearn is a real-time classroom quiz platform built entirely using AWS serv
    git clone https://github.com/your-username/lambdalearn.git
 ```
 
-2. Navigate to the project directory:
-
-```bash
-   cd lambdalearn
-```
-
-3. Install frontend dependencies:
+2. Install frontend dependencies:
 
 ```bash
   npm install
 ```
 
-4. Start the development server:
+3. Start the development server:
 
 ```bash
    npm run dev
